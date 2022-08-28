@@ -2,10 +2,10 @@
 
 Requirements
 _______________________
-pip install time
-pip install requests
-pip install csv
-pip install datetime
-pip install json
-pip install pandas
+pip install time <br />
+pip install requests <br />
+pip install csv <br />
+pip install datetime <br />
+pip install json <br /> 
+pip install pandas <br />
 
